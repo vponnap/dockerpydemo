@@ -1,2 +1,2 @@
-s="welcome to python"
+s="welcome to python and kanha"
 print(s)
